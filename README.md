@@ -1,6 +1,6 @@
 # Portfolio — Huy Nguyen Duc
 
-Personal portfolio for a backend engineer, built with Next.js. Static-rendered,
+Personal portfolio for a software engineer, built with Next.js. Static-rendered,
 zero client-side JavaScript beyond React hydration, and themed after the
 coconut countryside of Bến Tre in the Mekong Delta.
 

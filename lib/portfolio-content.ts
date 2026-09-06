@@ -10,8 +10,8 @@ export const profile = {
   name: "Huy Nguyen",
   fullName: "Huy Nguyen Duc",
   initials: "HN",
-  role: ["BACKEND", "ENGINEER"],
-  jobTitle: "Backend Engineer",
+  role: ["SOFTWARE", "ENGINEER"],
+  jobTitle: "Software Engineer",
   location: "Ho Chi Minh City, Vietnam",
   experience: "4+ years experience",
   availability: "Available for remote work",
@@ -20,12 +20,12 @@ export const profile = {
   githubHandle: "nguyenduchuy71",
   linkedin: "https://www.linkedin.com/in/huy-nguyen-26146a14a/",
   intro:
-    "Backend engineer with four years building Python services — FastAPI and Django APIs, Kafka pipelines, Redis caching and Celery workers — for camera analytics at scale, clinic booking platforms and AI agent systems. I own architecture from schema design through to Docker and Kubernetes deploys.",
+    "Software engineer with four years building Python services — FastAPI and Django APIs, Kafka pipelines, Redis caching and Celery workers — for camera analytics at scale, clinic booking platforms and AI agent systems. I own architecture from schema design through to Docker and Kubernetes deploys.",
 };
 
 /** Scrolling keyword ribbon under the hero. */
 export const ribbon = [
-  "Backend Engineer",
+  "Software Engineer",
   "Python",
   "FastAPI",
   "Django",
@@ -353,6 +353,7 @@ export const about = {
 
 /** Keywords for the meta keywords tag and general discoverability. */
 export const seoKeywords = [
+  "Software Engineer",
   "Backend Engineer",
   "Backend Developer",
   "Python Developer",
@@ -370,7 +371,7 @@ export const seoKeywords = [
   "AI Agent",
   "Ho Chi Minh City",
   "Vietnam",
-  "Remote Backend Engineer",
+  "Remote Software Engineer",
   "Huy Nguyen Duc",
   "Nguyen Duc Huy",
 ];

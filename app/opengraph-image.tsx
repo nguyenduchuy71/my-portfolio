@@ -26,7 +26,7 @@ export default function OpengraphImage() {
         </div>
 
         <div style={{ display: "flex", flexDirection: "column" }}>
-          <div style={{ fontSize: 128, fontWeight: 700, lineHeight: 1 }}>BACKEND</div>
+          <div style={{ fontSize: 128, fontWeight: 700, lineHeight: 1 }}>SOFTWARE</div>
           <div style={{ fontSize: 128, fontWeight: 700, lineHeight: 1 }}>ENGINEER</div>
         </div>
 

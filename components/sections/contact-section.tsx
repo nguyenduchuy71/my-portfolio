@@ -12,7 +12,7 @@ export function ContactSection() {
       <SectionHeading index="07">Let&apos;s Connect</SectionHeading>
 
       <p className="max-w-2xl text-base leading-relaxed text-muted">
-        Open to backend and platform roles, remote or hybrid. Happy to talk
+        Open to software engineering and backend roles, remote or hybrid. Happy to talk
         through an API design, a schema you are unsure about, or a service that
         keeps waking you up at night.
       </p>
