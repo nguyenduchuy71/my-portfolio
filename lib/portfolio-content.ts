@@ -201,7 +201,6 @@ export const skills: SkillGroup[] = [
       "Kafka — event-driven pipelines",
       "Microservice design and integration contracts",
       "WebSocket and Server-Sent Events",
-      "Unit and integration testing, 90%+ coverage",
     ],
   },
   {
